@@ -3,7 +3,7 @@
 */
 package pl.coderslab.datainput;
 import java.util.Formatter;
-public class main55 {
+public class main44 {
     public static void main(String args[]) {
         Formatter fmt = new Formatter();
         // Format 4 decimal places.

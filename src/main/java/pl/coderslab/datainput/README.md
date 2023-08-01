@@ -1,15 +1,15 @@
 ## Zadanie 1 - rozwiązywane z wykładowcą
 
 W pliku `Main01.java` stwórz metodę o sygnaturze:
- 
- `public static void getInfo()`.
+
+`public static void getInfo()`.
 
 W ciele metody dodaj kod, który:
 
 1. poprosi Cię o podanie imienia,
 2. poprosi Cię o podanie wieku,
-3. wypisze na konsoli informacje w formacie `"{imię} ma {wiek} lat"`. 
-Wywołaj metodę w metodzie `main`.
+3. wypisze na konsoli informacje w formacie `"{imię} ma {wiek} lat"`.
+   Wywołaj metodę w metodzie `main`.
 
 
 ## Zadanie 2

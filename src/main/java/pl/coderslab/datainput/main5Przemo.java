@@ -2,7 +2,7 @@ package pl.coderslab.datainput;
 
 import java.util.Scanner;
 
-public class main55 {
+public class main5Przemo {
     public static void main(String[]args){
         StringBuilder result = new StringBuilder();
         Scanner scanner = new Scanner(System.in);
