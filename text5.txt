@@ -1,5 +1,6 @@
 Java
 C
+Pascal
 C++
 C#
 Python
@@ -11,7 +12,8 @@ Objective-C
 Język asemblera
 Swift
 Ruby
-(Visual) Basic
+()
+Basic
 Delphi/Object Pascal
 Go
 Groovy
